@@ -1,0 +1,7 @@
+models/
+audio/*.wav
+db/symptoms_db.json
+__pycache__/
+*.pyc
+.env
+*.log
